@@ -51,7 +51,7 @@
     "default_output_format": "png",
     "default_image_number": 1,
     "checkpoint_downloads": {
-        "Illustrious-XL-v0.1.safetensors": "https://huggingface.co/OnomaAIResearch/Illustrious-xl-early-release-v0/resolve/f08f0826ffe32183ba2d1f4106dd5b32e195a02e/Illustrious-XL-v0.1.safetensors"
+        "Illustrious-XL-v0.1.safetensors": "https://huggingface.co/OnomaAIResearch/Illustrious-xl-early-release-v0/resolve/main/Illustrious-XL-v0.1.safetensors"
     },
     "lora_downloads": {},
     "embeddings_downloads": {},
