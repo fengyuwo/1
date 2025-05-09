@@ -50,8 +50,8 @@
     "default_max_image_number": 32,
     "default_output_format": "png",
     "default_image_number": 1,
-    "checkpoint_downloads": {
-        "橙橘NAI v1.0.safetensors": "https://huggingface.co/fengyume/dynamic_outline_v2.0.safetensors/resolve/main/%E6%A9%99%E6%A9%98NAI%20v1.0.safetensors"
+    "checkpoint_downloads":
+        "橙橘NAI v1.0.safetensors": "https://huggingface.co/fengyume/dynamic_outline_v2.0.safetensors/resolve/main/%E6%A9%99%E6%A9%98NAI%20v1.0.safetensors",
         "hassakuXLIllustrious_C&Vv2.1_UNv1.3StyleA2B8.safetensors": "https://huggingface.co/6chan/FeMix_HassakuXL/resolve/main/hassakuXLIllustrious_C%26Vv2.1_UNv1.3StyleA2B8.safetensors"
     },
     "lora_downloads": {},
