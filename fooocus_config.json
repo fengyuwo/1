@@ -40,7 +40,7 @@
     "default_vae": "Default (model)",
     "default_styles": [],
     "default_prompt_negative": "low quality,worst quality,normal quality,text,signature,jpeg artifacts,bad anatomy,old,early,copyright name,watermark,artist name,signature,blue theme,",
-    "default_prompt": "1girl,",
+    "default_prompt": "",
     "default_performance": "Speed",
     "default_image_prompt_checkbox": false,
     "default_enhance_checkbox": false,
@@ -52,6 +52,7 @@
     "default_image_number": 1,
     "checkpoint_downloads": {
         "橙橘NAI v1.0.safetensors": "https://huggingface.co/fengyume/dynamic_outline_v2.0.safetensors/resolve/main/%E6%A9%99%E6%A9%98NAI%20v1.0.safetensors"
+        "hassakuXLIllustrious_C&Vv2.1_UNv1.3StyleA2B8.safetensors": "https://huggingface.co/6chan/FeMix_HassakuXL/resolve/main/hassakuXLIllustrious_C%26Vv2.1_UNv1.3StyleA2B8.safetensors"
     },
     "lora_downloads": {},
     "embeddings_downloads": {},
