@@ -39,7 +39,7 @@
     "default_scheduler": "sgm_uniform",
     "default_vae": "Default (model)",
     "default_styles": [],
-    "default_prompt_negative": "low quality,worst quality,normal quality,text,signature,jpeg artifacts,bad anatomy,old,early,copyright name,watermark,artist name,signature,blue theme,",
+    "default_prompt_negative": "DeepNegative_xl_v1,low quality,worst quality,normal quality,text,signature,jpeg artifacts,bad anatomy,old,early,copyright name,watermark,artist name,signature,blue theme,",
     "default_prompt": "",
     "default_performance": "Speed",
     "default_image_prompt_checkbox": false,
@@ -54,7 +54,9 @@
         "hassakuXLIllustrious_C&Vv2.1_UNv1.3StyleA2B8.safetensors": "https://huggingface.co/6chan/FeMix_HassakuXL/resolve/main/hassakuXLIllustrious_C%26Vv2.1_UNv1.3StyleA2B8.safetensors"
     },
     "lora_downloads": {},
-    "embeddings_downloads": {},
+    "embeddings_downloads": {
+        "DeepNegative_xl_v1.safetensors": "https://huggingface.co/lenML/DeepNegativeXL/resolve/main/DeepNegative_xl_v1.safetensors"
+    },
     "vae_downloads": {
         "sdxl_fp16_fix_vae.safetensors": "https://huggingface.co/licyk/sd-vae/resolve/main/sdxl_1.0/sdxl_fp16_fix_vae.safetensors"
     },
