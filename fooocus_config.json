@@ -1,5 +1,5 @@
 {
-    "default_model": "miaomiao3DHarem_lh3d10.safetensors",
+    "default_model": "femixHassakuxl_v212.safetensors",
     "previous_default_models": [],
     "default_refiner": "None",
     "default_refiner_switch": 0.8,
@@ -51,7 +51,7 @@
     "default_output_format": "png",
     "default_image_number": 1,
     "checkpoint_downloads": {
-        "miaomiao3DHarem_lh3d10.safetensors": "https://huggingface.co/fengyume/dynamic_outline_v2.0.safetensors/resolve/main/miaomiao3DHarem_lh3d10.safetensors"
+        "femixHassakuxl_v212.safetensors": "https://huggingface.co/fengyume/dynamic_outline_v2.0.safetensors/resolve/main/femixHassakuxl_v212.safetensors"
     },
     "lora_downloads": {},
     "embeddings_downloads": {
